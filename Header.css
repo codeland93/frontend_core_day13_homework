@@ -1,0 +1,17 @@
+.header {
+  background-image: url('https://via.placeholder.com/1500x500'); /* Replace with a desired background image URL */
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header-content h1 {
+  color: white;
+  font-size: 3rem;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 10px 20px;
+  border-radius: 5px;
+}
